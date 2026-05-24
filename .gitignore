@@ -1,0 +1,32 @@
+# VS Code
+.vscode/
+
+# Carpetas de datos
+Inputs/
+Outputs/
+Validacion de cifras INF/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# SPSS
+*.sav
+
+# Excel
+*.xlsx
+*.xls
+
+# CSV (si no quieres versionarlos)
+*.csv
+
+# Archivos temporales
+~$*
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
